@@ -23,6 +23,6 @@ Watch entity netprops changes (manual)
 - `sm_netprop_compare` compares the current netprops with the saved ones.
 
 Other
-`sm_netprop_menu` display the menu for the above commands.
-`sm_netprop_showall` show all netprops values of the selected entity.
-`sm_netprop_output <"file.txt">` save the selected entity's all netprops info to file in KeyValues format. save to game root by default, with path will save to another directory.
+- `sm_netprop_menu` display the menu for the above commands.
+- `sm_netprop_showall` show all netprops values of the selected entity.
+- `sm_netprop_output <"file.txt">` save the selected entity's all netprops info to file in KeyValues format. save to game root by default, with path will save to another directory.
